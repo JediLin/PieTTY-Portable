@@ -1,0 +1,82 @@
+ProjectHome = http://Jedi.org/PieTTYPortable/
+Copyright = Jedi (CC) 2010
+License = Creative Commons BY-NC-SA 2.0 Taiwan
+LicenseURL = http://creativecommons.org/licenses/by-nc-sa/2.0/tw/
+
+; if ( A_Language = "0404" ) {
+TooltipTray = PieTTY Portable (オ龄秨穝硈絬 / 龄匡虫)
+TitleAskPiettyExec = 叫﹚ PieTTY 磅︽郎竚
+FiletypeAskPiettyExec = PieTTY 磅︽郎
+NewConnectionItemMenuTray = 秨穝硈絬
+SetNewWindowHotkeyNone = ぃ璶ㄏノ荐龄
+SetNewWindowHotkeyItemMenuTray = 秨穝硈絬荐龄
+SetMaxBackupItemMenuTray = 肂玂痙砞﹚称计秖
+EnableReadOnlyItemMenuTray = 斑弄家Α
+ToggleNativePieTTYPortableModeItemMenuTray = ㄏノ PieTTY ず拟Α家Α
+ToggleCheckNewVersionPeriodicallyItemMenuTray = ﹚戳笆浪琩琌Τ穝 PieTTY Portable
+CheckNewVersionItemMenuTray = 皑浪琩琌Τ穝 PieTTY Portable
+MsgVerFileWrong = 礚猭浪琩セ
+TitleNewVerAvailable = Τ穝
+MsgNewVerAvailable = Τ穝 PieTTY Portable セノ叫 %ProjectHome% 更
+TitleNoNewVer = ⊿Τ穝
+MsgNoNewVer =  PieTTY Portable 竒琌程穝
+AboutItemMenuTray = 闽 PieTTY Portable
+TitleError = 岿粇
+MsgCanNotFindRegEdit =  %WinDir% тぃ regedit.exe`, 盢闽超!
+TitleAskCopyReg = 琌ㄏノ瞷Τ砞﹚
+MsgAskCopyReg = 琌Ωㄏノ PieTTY Portable叫拜琌璶猽ノヘ玡╰参い PieTTY / PuTTY 砞﹚
+MsgAbout = PieTTY Portable 琌﹍ PieTTY ぇ︽睰矪瞶祅魁竲セ虑笷Θ拟盿疭┦穎皌ヴ PieTTY セㄏノ`n`nPieTTY Portable ぇ方絏の郎更叫ǎ %ProjectHome%`n`n叫猔`種`n狦琌眖篴褐┪ㄤ獶 PieTTY Portable 呼更穦ъ侣┪琌Τ痜瑀叫︽璽癬闽砫ヴ
+MsgReadOnly = PieTTY Portable 竒非称秈斑弄家ΑセΩ┮Τ PieTTY / PuTTY 硈絬挡盢闽郎籹称斑弄碈砰 (ㄒ縉 CD ) ㄏノ`n`nゼㄓ PieTTY Portable 盢斑弄家Α磅︽ョぃ穝兜砞﹚`n`n狦惠璶临Θ家Α叫挡┮Τ PieTTY / PuTTY 硈絬礛ゅ絪胯硁砰絪胯 piettyportable.ini 郎盢 [Settings] 跋琿い ReadOnly 砞﹚э 0 
+; }
+
+if ( A_Language = "0804" ) {
+TooltipTray = PieTTY Portable (左键开新连线 / 右键叫出选单)
+TitleAskPiettyExec = 请指定 PieTTY 执行档的位置
+FiletypeAskPiettyExec = PieTTY 执行档
+NewConnectionItemMenuTray = 开新连线
+SetNewWindowHotkeyNone = 不要使用热键
+SetNewWindowHotkeyItemMenuTray = 开新连线的热键
+SetMaxBackupItemMenuTray = 额外保留的设定备份数量
+EnableReadOnlyItemMenuTray = 唯读模式
+ToggleNativePieTTYPortableModeItemMenuTray = 使用 PieTTY 内建的可携式模式
+ToggleCheckNewVersionPeriodicallyItemMenuTray = 定期自动检查是否有新版 PieTTY Portable
+CheckNewVersionItemMenuTray = 马上检查是否有新版 PieTTY Portable
+MsgVerFileWrong = 无法检查版本
+TitleNewVerAvailable = 有新版
+MsgNewVerAvailable = 有更新的 PieTTY Portable 版本可用，请至 %ProjectHome% 下载。
+TitleNoNewVer = 没有新版
+MsgNoNewVer = 你的 PieTTY Portable 已经是最新版了。
+AboutItemMenuTray = 关于 PieTTY Portable
+TitleError = 错误
+MsgCanNotFindRegEdit = 在 %WinDir% 找不到 regedit.exe`, 即将关闭!
+TitleAskCopyReg = 是否使用现有的设定
+MsgAskCopyReg = 你似乎是初次使用 PieTTY Portable，请问是否要沿用目前系统中的 PieTTY / PuTTY 设定？
+MsgAbout = PieTTY Portable 是在原始的 PieTTY 之上另行添加能处理登录的脚本，藉此达成可携带的特性，并可搭配任何 PieTTY 版本使用。`n`nPieTTY Portable 之源码及档案下载请见 %ProjectHome%`n`n请注意：`n如果你是从“阿荣福利味”或其他非 PieTTY Portable 网站下载，你可能会抓到旧版或者是有病毒的加料版，请自行负起相关责任。
+MsgReadOnly = PieTTY Portable 已经准备好进入唯读模式，本次所有 PieTTY / PuTTY 连线结束后，即可将相关档案制备到唯读媒体 (例如烧到 CD 上) 使用。`n`n未来 PieTTY Portable 将以唯读模式执行，亦即不再更新各项设定。`n`n如果需要还原成一般模式，请先结束所有的 PieTTY / PuTTY 连线，然后以纯文字编辑软体编辑 piettyportable.ini 档案，将 [Settings] 区段中的 ReadOnly 设定值改为 0 即可。
+}
+
+if ( A_Language != "0404" and A_Language != "0804" ) {
+TooltipTray = PieTTY Portable (left-click to open new connection / right-click to access tray menu)
+TitleAskPiettyExec = Where is your PieTTY?
+FiletypeAskPiettyExec = PieTTY executable
+NewConnectionItemMenuTray = New Connection
+SetNewWindowHotkeyNone = None
+SetNewWindowHotkeyItemMenuTray = Hotkey for New Connection
+SetMaxBackupItemMenuTray = Number(s) of Extra Settings Backup
+EnableReadOnlyItemMenuTray = Read-Only Mode
+ToggleNativePieTTYPortableModeItemMenuTray = Work with Native PieTTY Portable Mode
+ToggleCheckNewVersionPeriodicallyItemMenuTray = Automatically Check New Version of PieTTY Portable Periodically
+CheckNewVersionItemMenuTray = Check New Version of PieTTY Portable Now
+MsgVerFileWrong = Can not check if there is new version of PieTTY Portable available.
+TitleNewVerAvailable = New Version Available
+MsgNewVerAvailable = There is a new version of PieTTY Portable available. Please download it from %ProjectHome%
+TitleNoNewVer = Up to Date
+MsgNoNewVer = Your PieTTY Portable is up-to-dated.
+AboutItemMenuTray = About PieTTY Portable
+TitleError = ERROR
+MsgCanNotFindRegEdit = Can not find regedit.exe in your %WinDir%`, now quit!
+TitleAskCopyReg = Use existed settings?
+MsgAskCopyReg = This seems to be your first time using PieTTY Portable. Do you want to use existed PieTTY / PuTTY settings on this system?
+MsgAbout = PieTTY Portable adds scripts handling registry on original PieTTY, to make it portable. PieTTY Portable works with any version of PieTTY.`n`nPlease visit %ProjectHome% to get the source code and the release packages of PieTTY Portable.`n`nWARNING:`nIf you download PieTTY Portable from AZO's FREEWARE or sites other then %ProjetHome% you may get an old version or virus-infected package. Please take your own responsibility in such a case.
+MsgReadOnly = PieTTY Portable is prepared for Read-Only mode now. After all current PieTTY / PuTTY connections end, you can use related files on read-only media (ex., burning CDs).`n`nPieTTY Portable will be executed in Read-Only mode from next time, so all settings will no longer be updated.`n`nIn case you would like to return normal mode, please first close all current PieTTY / PuTTY connections, edit piettyportable.ini with any text editor, change the ReadOnly settings in the [Settings] section to 0 and all done.
+}
