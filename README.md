@@ -16,7 +16,7 @@ PieTTY Portable 是另一個 Jedi 閒暇時亂弄的東西，目前沒有什麼�
 - 自動檢查更新：可設定成每七天自動檢查一次是否有新版的 PieTTY Portable
 
 ## 使用方法
-- 下載 PieTTY Portable 後，解壓縮，將所有檔案與 [PieTTY](https://sites.google.com/view/pietty-project) 或 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) 主程式放置在相同的路徑
+- [下載 PieTTY Portable](https://github.com/JediLin/PieTTY-Portable/releases) 後，解壓縮，將所有檔案與 [PieTTY](https://sites.google.com/view/pietty-project) 或 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) 主程式放置在相同的路徑
 - 日後都執行 `PieTTYPortable.exe`，不要直接執行 PieTTY 或 PuTTY 主程式
 - 如果 PieTTY Portable 找不到你的 PieTTY 或 PuTTY 執行檔，就會詢問，並且自動更新 `piettyportable.ini` 內的設定值
 - 在系統列圖示上按一下滑鼠左鍵就可以開出新的 PieTTY 視窗
